@@ -1,0 +1,21 @@
+2026-06-24 04:32:43.730461+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "create global temporary table HTE_tasks([*]day integer, id integer, month integer, priority integer, rn_ integer not null, year integer, title varchar(100), description varchar(500), primary key (rn_)) transactional"; expected "identifier"; SQL statement:
+create global temporary table HTE_tasks(day integer, id integer, month integer, priority integer, rn_ integer not null, year integer, title varchar(100), description varchar(500), primary key (rn_)) transactional [42001-240]
+2026-06-24 19:29:36.975469+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "create global temporary table HTE_tasks([*]day integer, id integer, month integer, priority integer, rn_ integer not null, year integer, title varchar(100), description varchar(500), primary key (rn_)) transactional"; expected "identifier"; SQL statement:
+create global temporary table HTE_tasks(day integer, id integer, month integer, priority integer, rn_ integer not null, year integer, title varchar(100), description varchar(500), primary key (rn_)) transactional [42001-240]
+2026-06-24 19:34:30.287187+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "create global temporary table HTE_tasks([*]day integer, id integer, month integer, priority integer, rn_ integer not null, year integer, title varchar(100), description varchar(500), primary key (rn_)) transactional"; expected "identifier"; SQL statement:
+create global temporary table HTE_tasks(day integer, id integer, month integer, priority integer, rn_ integer not null, year integer, title varchar(100), description varchar(500), primary key (rn_)) transactional [42001-240]
+2026-06-24 22:40:46.559608+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "create global temporary table HTE_tasks([*]day integer, id integer, month integer, priority integer, rn_ integer not null, year integer, title varchar(100), description varchar(500), primary key (rn_)) transactional"; expected "identifier"; SQL statement:
+create global temporary table HTE_tasks(day integer, id integer, month integer, priority integer, rn_ integer not null, year integer, title varchar(100), description varchar(500), primary key (rn_)) transactional [42001-240]
+2026-06-24 23:04:39.183748+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "create global temporary table HTE_tasks([*]day integer, id integer, month integer, priority integer, rn_ integer not null, year integer, title varchar(100), description varchar(500), primary key (rn_)) transactional"; expected "identifier"; SQL statement:
+create global temporary table HTE_tasks(day integer, id integer, month integer, priority integer, rn_ integer not null, year integer, title varchar(100), description varchar(500), primary key (rn_)) transactional [42001-240]
+2026-06-24 23:05:51.959347+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "create global temporary table HTE_tasks([*]day integer, id integer, month integer, priority integer, rn_ integer not null, year integer, title varchar(100), description varchar(500), primary key (rn_)) transactional"; expected "identifier"; SQL statement:
+create global temporary table HTE_tasks(day integer, id integer, month integer, priority integer, rn_ integer not null, year integer, title varchar(100), description varchar(500), primary key (rn_)) transactional [42001-240]
+2026-06-24 23:42:39.843029+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "create global temporary table HTE_tasks([*]day integer, id integer, month integer, priority integer, rn_ integer not null, year integer, title varchar(100), description varchar(500), primary key (rn_)) transactional"; expected "identifier"; SQL statement:
+create global temporary table HTE_tasks(day integer, id integer, month integer, priority integer, rn_ integer not null, year integer, title varchar(100), description varchar(500), primary key (rn_)) transactional [42001-240]
